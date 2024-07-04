@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishitParija
-- 👀 I’m interested in ...software development 
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+-  I am passionate about Artificial intelligence, Machine learning, and Data science.
+-  Exploring innovative solutions and leveraging data-driven insights to tackle complex problems excites me.
+-  Follow my journey in AI/ML and various domains through projects and contributions here.
 - 📫 How to reach me ...rishitparija774@gmail.com
 
 <!---
